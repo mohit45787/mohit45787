@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Go Lang.**
 
-- 👯 I’m looking to collaborate on **Infostride pvt. ltd.**
-
 - 💬 Ask me about **Android Native (java, kotlin), Flutter (dart) , Firebase.**
 
 - 📫 How to reach me **Mohit@infostride.com**
